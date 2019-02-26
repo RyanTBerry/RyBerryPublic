@@ -1,4 +1,4 @@
-# Develper and Insight Days
+# Developer and Insight Days
 ## App Modernization Hack Event
 
 ### Overview
